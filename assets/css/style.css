@@ -1305,3 +1305,15 @@ section {
   padding:10px 0 0 10px;
   font-family: 华文楷体;
 }
+
+/*--------------------------------------------------------------
+# people intro
+--------------------------------------------------------------*/
+#people_intro {
+  width: 100%;
+  height: 100vh;
+  background: url("../../history/img/xdu-bg.jpg") top center;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
